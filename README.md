@@ -20,6 +20,7 @@ ingest → preprocess → analytics → visualize → cluster
 - clusters
 
 ## Team Members
-- Name 1
-- Name 2
-- Name 3
+- Jannah Ashraf Elsheikh
+- Marwan Ghazal
+- Abdulmonem Demerdash
+- Omar Amin Abdelrazek

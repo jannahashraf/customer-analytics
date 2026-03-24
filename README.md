@@ -1,13 +1,13 @@
 # Customer Analytics Pipeline
 
 ## Build Docker Image
-docker build -t customer-analytics .
+```docker build -t customer-analytics``` .
 
 ## Run Container
-docker run -it --name my_container customer-analytics
+```docker run -it --name my_container customer-analytics```
 
 ## Run Pipeline
-python ingest.py your_dataset.csv
+```python ingest.py your_dataset.csv```
 
 ## Execution Flow
 ingest → preprocess → analytics → visualize → cluster
